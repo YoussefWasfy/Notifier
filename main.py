@@ -71,3 +71,10 @@ def calculate_and_display_dates():
             print(result)
             return result
             break
+
+
+if __name__ == '__main__':
+
+    calculate_and_display_dates()
+
+
